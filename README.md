@@ -1,0 +1,1 @@
+This project leverages predictive modeling to identify key risk factors for heart disease. The findings from the analysis are crucial for clinicians who require reliable tools to identify individuals at risk early, thereby enabling timely intervention.
